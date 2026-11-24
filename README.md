@@ -108,10 +108,10 @@ git clone https://github.com/username/flowsync.git
 
 | Page | Screenshot |
 | --- | --- |
-| Home | `docs/screenshots/home.png` |
-| About | `docs/screenshots/about.png` |
-| Features | `docs/screenshots/features.png` |
-| Contacts | `docs/screenshots/contacts.png` |
+| Home | `home.png` |
+| About | `sobre.png` |
+| Features | `funcionalidades.png` |
+| Contacts | `contactos.png` |
 
 ---
 
