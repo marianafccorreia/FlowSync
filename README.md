@@ -80,27 +80,6 @@ Technologies and tools used to develop this project:
 * **Google Fonts:** Poppins and Inter.
 * **Images:** free stock libraries [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com).
 
----
-
-## 🚀 How to Run the Project Locally
-
-Since this project is built with WordPress (not `npm`), running it locally requires a PHP + MySQL environment. If you want to run the project on your computer, follow these steps:
-
-1. **Set up a local WordPress environment**, such as [LocalWP](https://localwp.com), XAMPP or WAMP, and create a new site.
-
-2. **Clone the repository** into a temporary folder:
-
-```
-git clone https://github.com/username/flowsync.git
-```
-
-3. **Copy the project files** (the `wp-content` folder: themes, plugins and uploads) into your local WordPress installation.
-
-4. **Import the database** (the `.sql` file or migration package included in the repository) using phpMyAdmin or your local environment's import tool.
-
-5. **Start the site** from your local environment's dashboard, then open `http://flowsync.local` (or the address shown) and `/wp-admin` for the admin area.
-
-> ⚠️ **Note:** never commit admin credentials to the repository. Set the username and password in your own local environment.
 
 ---
 
