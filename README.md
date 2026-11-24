@@ -1,67 +1,68 @@
 # 🔄 FlowSync
 
-Criação do website institucional da **FlowSync**, uma startup SaaS fictícia de gestão de projetos e colaboração em equipa, com o objetivo de apresentar a plataforma a pequenas empresas, agências, equipas remotas, startups e freelancers, transmitir credibilidade e converter visitantes em utilizadores através de chamadas à ação claras.
+Creation of the institutional website for **FlowSync**, a fictional SaaS startup for project management and team collaboration. The goal is to present the platform to small businesses, marketing agencies, remote teams, startups and freelancers, build credibility, and convert visitors into users through clear calls to action.
 
-> Projeto desenvolvido no âmbito da UFCD **10790 – Projeto de programação** (IEFP).
 
-🔗 **Aceder ao Website:** [https://flowsync.exemplo.com](https://flowsync.exemplo.com)
-
----
-
-## 💡 Conceito
-
-A FlowSync é uma plataforma SaaS (*Software as a Service*) que ajuda equipas a organizar projetos, colaborar em tempo real e acompanhar o progresso do trabalho numa única plataforma.
-
-> *"Organiza projetos, equipa e comunicação num único espaço."*
+🔗 **Visit the Website:** [https://flowsync.example.com](https://flowsync.example.com)
 
 ---
 
-## 🎯 Objetivos do Projeto
+## 💡 Concept
 
-* **Divulgação:** Dar a conhecer a plataforma, as suas funcionalidades e a missão da marca.
-* **Credibilidade:** Reforçar a confiança com secção "Sobre", processo de trabalho, testemunhos e logótipos de equipas que usam o produto.
-* **Conversão:** Levar o visitante a experimentar a plataforma através de CTAs em todas as páginas (*Experimentar Gratuitamente*, *Começar Agora*).
-* **Informação Útil:** Disponibilizar contactos, formulário de pedido de informações e localização.
+FlowSync is a SaaS (*Software as a Service*) platform that helps teams organise projects, collaborate in real time and track work progress in a single place.
+
+> *"Organise projects, team and communication in one single space."*
 
 ---
 
-## 👥 Público-alvo
+## 🎯 Project Goals
 
-* Pequenas empresas
-* Agências de marketing
-* Equipas remotas
+* **Awareness:** Introduce the platform, its features and the brand's mission.
+* **Credibility:** Build trust with an "About" page, a clear working process, testimonials and logos of teams using the product.
+* **Conversion:** Drive visitors to try the platform with CTAs on every page (*Try for Free*, *Get Started*).
+* **Useful Information:** Provide contact details, an information request form and location.
+
+---
+
+## 👥 Target Audience
+
+* Small businesses
+* Marketing agencies
+* Remote teams
 * Startups
 * Freelancers
 
 ---
 
-## 🗂️ Estrutura do Site
+## 🗂️ Site Structure
 
-| Página | Descrição |
+| Page | Description |
 | --- | --- |
-| **Home** | Hero com CTA, secção "Como podemos ajudar a tua equipa?" com 6 cards de funcionalidades, equipas que usam o FlowSync, testemunho e CTA final. |
-| **Sobre** | Quem somos, missão, o que fazemos, processo em 6 passos (Planear → Melhorar) e "Porque escolher o FlowSync?". |
-| **Funcionalidades** | Gestão de projetos, Quadros Kanban, Gestão de equipas, Automações, Relatórios e Integrações (Slack, Google Drive, Microsoft Teams, Zoom). |
-| **Contactos** | Formulário de contacto, mapa (Google Maps com consentimento), morada, email e telefone. |
+| **Home** | Hero section with CTA, "How can we help your team?" section with 6 feature cards, teams using FlowSync, testimonial and final CTA. |
+| **About** | Who we are, mission, what we do, 6-step process (Plan → Improve) and "Why choose FlowSync?". |
+| **Features** | Project management, Kanban boards, team management, automations, reports and integrations (Slack, Google Drive, Microsoft Teams, Zoom). |
+| **Contacts** | Contact form, map (Google Maps, loaded after consent), address, email and phone number. |
+
+> The website content is written in European Portuguese.
 
 ---
 
-## 🎨 Identidade Visual
+## 🎨 Visual Identity
 
-| Elemento | Valor |
+| Element | Value |
 | --- | --- |
-| Cor primária (azul) | `#2563EB` |
-| Cor secundária (azul escuro) | `#1E293B` |
-| Cor de destaque (verde) | `#22C55E` |
-| Fundo | `#F8FAFC` |
-| Tipografia dos títulos | **Poppins** (Google Fonts) |
-| Tipografia do texto | **Inter** (Google Fonts) |
+| Primary colour (blue) | `#2563EB` |
+| Secondary colour (dark blue) | `#1E293B` |
+| Accent colour (green) | `#22C55E` |
+| Background | `#F8FAFC` |
+| Heading typeface | **Poppins** (Google Fonts) |
+| Body typeface | **Inter** (Google Fonts) |
 
 ---
 
 ## 💻 Tech Stack
 
-Tecnologias e ferramentas utilizadas no desenvolvimento deste projeto:
+Technologies and tools used to develop this project:
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Astra](https://img.shields.io/badge/Astra_Theme-0274E6?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -72,65 +73,65 @@ Tecnologias e ferramentas utilizadas no desenvolvimento deste projeto:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
 
-* **WordPress + tema Astra:** base do site e sistema de design.
-* **Elementor:** construção visual das páginas.
-* **SureForms:** formulário de contacto (as entradas são geridas no painel do WordPress).
-* **SureRank:** otimização SEO.
-* **Google Fonts:** Poppins e Inter.
-* **Imagens:** bancos gratuitos [Pexels](https://www.pexels.com) e [Unsplash](https://unsplash.com).
+* **WordPress + Astra theme:** website foundation and design system.
+* **Elementor:** visual page building.
+* **SureForms:** contact form (entries are managed from the WordPress dashboard).
+* **SureRank:** SEO optimisation.
+* **Google Fonts:** Poppins and Inter.
+* **Images:** free stock libraries [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com).
 
 ---
 
-## 🚀 Como executar o projeto localmente
+## 🚀 How to Run the Project Locally
 
-Como o projeto é construído em WordPress (e não com `npm`), a execução local faz-se com um ambiente PHP + MySQL. Se quiseres correr o projeto no teu computador, segue estes passos:
+Since this project is built with WordPress (not `npm`), running it locally requires a PHP + MySQL environment. If you want to run the project on your computer, follow these steps:
 
-1. **Instalar um ambiente local de WordPress**, como [LocalWP](https://localwp.com), XAMPP ou WAMP, e criar um novo site.
+1. **Set up a local WordPress environment**, such as [LocalWP](https://localwp.com), XAMPP or WAMP, and create a new site.
 
-2. **Clonar o repositório** para uma pasta temporária:
+2. **Clone the repository** into a temporary folder:
 
 ```
-git clone https://github.com/utilizador/flowsync.git
+git clone https://github.com/username/flowsync.git
 ```
 
-3. **Copiar os ficheiros do projeto** (pasta `wp-content`: temas, plugins e *uploads*) para a instalação local do WordPress.
+3. **Copy the project files** (the `wp-content` folder: themes, plugins and uploads) into your local WordPress installation.
 
-4. **Importar a base de dados** (ficheiro `.sql` ou pacote de migração incluído no repositório) através do phpMyAdmin ou da ferramenta de importação do teu ambiente.
+4. **Import the database** (the `.sql` file or migration package included in the repository) using phpMyAdmin or your local environment's import tool.
 
-5. **Iniciar o site** pelo painel do ambiente local e aceder a `http://flowsync.local` (ou ao endereço indicado) e a `/wp-admin` para a área de administração.
+5. **Start the site** from your local environment's dashboard, then open `http://flowsync.local` (or the address shown) and `/wp-admin` for the admin area.
 
-> ⚠️ **Nota:** nunca publiques credenciais de administração no repositório. Define o utilizador e a palavra-passe no teu ambiente local.
+> ⚠️ **Note:** never commit admin credentials to the repository. Set the username and password in your own local environment.
 
 ---
 
-## 📸 Pré-visualização
+## 📸 Preview
 
-| Página | Captura |
+| Page | Screenshot |
 | --- | --- |
 | Home | `docs/screenshots/home.png` |
-| Sobre | `docs/screenshots/sobre.png` |
-| Funcionalidades | `docs/screenshots/funcionalidades.png` |
-| Contactos | `docs/screenshots/contactos.png` |
+| About | `docs/screenshots/about.png` |
+| Features | `docs/screenshots/features.png` |
+| Contacts | `docs/screenshots/contacts.png` |
 
 ---
 
 ## 🧠 Case Study
 
-**Problema:** as equipas usam múltiplas ferramentas e têm dificuldade em centralizar a informação.
+**Problem:** Teams use multiple tools and struggle to centralise information.
 
-**Objetivo:** criar uma *landing page* institucional para uma startup SaaS focada em colaboração e gestão de projetos.
+**Goal:** Create an institutional landing page for a SaaS startup focused on collaboration and project management.
 
-**Processo:**
+**Process:**
 
-* Pesquisa de websites SaaS
-* Definição da arquitetura de informação
-* Criação da identidade visual
-* Implementação em WordPress com Astra
+* Research of SaaS websites
+* Definition of the information architecture
+* Creation of the visual identity
+* Implementation in WordPress with Astra
 
-**Competências demonstradas:** UX Design, UI Design, Responsive Design, WordPress, Astra Theme, Design System e Arquitetura de Informação.
+**Skills demonstrated:** UX Design, UI Design, Responsive Design, WordPress, Astra Theme, Design System and Information Architecture.
 
 ---
 
-## 👩‍💻 Autoria
+## 👩‍💻 Author
 
-Desenvolvido por **Mariana Correia**
+Developed by **Mariana Correia**
